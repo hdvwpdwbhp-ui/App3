@@ -2,8 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSSpeechRecognitionUsageDescription)
-​NSSpeechRecognitionUsageDescription</key>
+	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Wir nutzen Spracherkennung, um gesprochene Inhalte in Text umzuwandeln.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Wir benötigen Zugriff auf das Mikrofon für Audioaufnahmen und Spracherkennung.</string>
 </dict>
 </plist>
